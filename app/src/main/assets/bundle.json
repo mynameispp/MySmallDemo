@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.ffzxnet.mysmall.app.main"
+    },
+    {
+      "uri": "seconde",
+      "pkg": "com.ffzxnet.mysmall.app.seconde"
+    },
+    {
+      "uri": "lib.utils",
+      "pkg": "com.ffzxnet.mysmall.lib.utils"
+    }
+  ]
+}

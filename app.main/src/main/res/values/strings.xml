@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App.main</string>
+    <string name="txt" formatted="true">什么%s</string>
+</resources>
